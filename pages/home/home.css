@@ -1,0 +1,29 @@
+ion-content {
+  background: linear-gradient(to bottom, #12c2e9, #c471ed, #f64f59);
+}
+
+h2 {
+  color: #2a363b;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  font-family: "Courier New", Courier, monospace;
+}
+
+ion-item {
+  background: #feceab;
+}
+
+.heading2 {
+  color: #ffffff;
+}
+
+.itemclear {
+  background: transparent;
+}
+
+code {
+  color: rgb(3, 54, 37);
+}
